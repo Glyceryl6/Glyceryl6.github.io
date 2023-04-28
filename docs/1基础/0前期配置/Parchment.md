@@ -50,4 +50,4 @@ minecraft {
 }
 ```
 最后点击这个按钮刷新一下gradle，等待即可（可能会失败，可以多试几次）：\
-![img.png](刷新gradle.png)
+![img.png](相关图片/刷新gradle.png)
